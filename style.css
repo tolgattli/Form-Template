@@ -1,0 +1,35 @@
+body {
+    color: white;
+    text-align: center;
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--cz2QUo30--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://1.bp.blogspot.com/-AmlaA5-BQmQ/YT_QITzWOLI/AAAAAAAABjE/j9Yct6PNC6Mvx8yIy0pOm18rRi9cXZKswCLcBGAsYHQ/s16000/Screenshot%252B%252528575%252529%252B%2525285%252529.jpg);
+}
+
+.temp-sr {
+    width: 1500px;
+    height: 400px;
+}
+
+
+.marg-st {
+    margin: 40px;
+    padding: 4px;
+}
+
+
+tr th {
+    padding: 7px;
+}
+
+
+
+
+#submt {
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 32px;
+    background: linear-gradient(278deg,rgba(25, 1, 69, 0.919),rgba(181, 181, 13, 0.391));
+    padding: 10px;
+}
+
+
